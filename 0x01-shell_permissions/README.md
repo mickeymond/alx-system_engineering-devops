@@ -25,3 +25,5 @@
 13. ./12-directory_permissions => Create a script that creates a directory called my_dir with permissions 751 in the working directory.
 
 14. ./13-change_group => Write a script that changes the group owner to school for the file hello
+
+15. ./100-change_owner_and_group => Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
