@@ -9,3 +9,5 @@
 5. ./4-global_variables => Create a script that lists environment variables.
 
 6. ./5-local_variables => Create a script that lists all local variables and environment variables, and functions.
+
+7. ./6-create_local_variable => Create a script that creates a new local variable.
